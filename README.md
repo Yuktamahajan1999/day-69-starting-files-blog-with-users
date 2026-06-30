@@ -30,7 +30,7 @@ A full-stack multi-user blogging platform built with **Python**, **Flask**, **Ji
 - HTML5
 - CSS3
 - Jinja2 Templates
-- Bootstrap (if used)
+- Bootstrap 
 
 ### Database
 - SQLite
